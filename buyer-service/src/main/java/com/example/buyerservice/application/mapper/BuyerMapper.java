@@ -1,4 +1,4 @@
-package com.example.buyer-service.application.mapper;
+package java.com.example.buyerservice.application.mapper;
 
 import com.example.buyerservice.application.dto.BuyerDTO;
 import com.example.buyerservice.domain.model.Buyer;

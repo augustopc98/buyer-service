@@ -1,7 +1,7 @@
-package com.example.buyer-service.infrastructure.persistence;
+package java.com.example.buyerservice.infrastructure.persistence;
 
-import com.example.buyer-service.domain.model.Buyer;
-import com.example.buyer-service.domain.repository.BuyerRepository;
+import java.com.example.buyerservice.domain.model.Buyer;
+import java.com.example.buyerservice.domain.repository.BuyerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 import org.springframework.data.jpa.repository.JpaRepository;

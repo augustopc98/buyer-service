@@ -1,4 +1,4 @@
-package com.example.buyer-service.application.dto;
+package java.com.example.buyerservice.application.dto;
 
 import lombok.Data;
 

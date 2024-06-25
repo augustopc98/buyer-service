@@ -1,4 +1,4 @@
-package com.example.buyerservice;
+package java.com.example.buyerservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

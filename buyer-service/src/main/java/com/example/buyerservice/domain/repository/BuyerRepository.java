@@ -1,6 +1,6 @@
-package com.example.buyerservice.domain.repository;
+package java.com.example.buyerservice.domain.repository;
 
-import com.example.buyerservice.domain.model.Buyer;
+import java.com.example.buyerservice.domain.model.Buyer;
 import java.util.List;
 
 public interface BuyerRepository {

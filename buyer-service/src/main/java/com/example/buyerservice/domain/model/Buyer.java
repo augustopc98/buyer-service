@@ -1,4 +1,4 @@
-package com.example.buyer-service.domain.model;
+package java.com.example.buyerservice.domain.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
